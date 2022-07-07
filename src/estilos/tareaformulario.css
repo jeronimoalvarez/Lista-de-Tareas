@@ -11,7 +11,7 @@
     background-color: white;
     padding: 14px 32px 14px 16px;
     border-radius: 4px 0 0 4px;
-    border: 2px solid #00471b;
+    border: 2px solid #421a83;
     outline: none;
 }
 
@@ -24,7 +24,7 @@
     cursor: pointer;
     outline: none;
     color: white;
-    background-color: #00471b;
+    background-color: #421a83;
     counter-reset: white;
     text-transform: capitalize;
 }

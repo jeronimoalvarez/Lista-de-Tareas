@@ -6,10 +6,16 @@
 
 html, 
 body {
+    background: rgb(68, 100, 173);
+    background: linear-gradient(
+        100deg,
+        rgba(68, 100, 173, 1),
+        rgba(74, 21, 110, 1)
+    );
     color: white;
-    background-color: #1b1b32;
-    font-family: Lato, sans-serif;
-    margin-top: 40px;
+    min-height: 100vh;
+    margin-bottom: 2rem;
+    margin-top: 50px;
 }
 
 h1 {
